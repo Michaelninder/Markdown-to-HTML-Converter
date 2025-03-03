@@ -66,36 +66,18 @@ The output will be saved in `output.html`.
 
 #### output.html
 
-    
-    
-    <h1>Hello, World!</h1>
-    
-    
-    This is a sample markdown file.
-    
-    
-    
-    
-    
-     
-      * Item 1
-     
-      * Item 2
-     
-    
-    
-    
-    
-    **Bold Text** and _Italic Text_.
-    
-    
-    
-    
-    
-    
-     print("Hello, Python!") 
+```    
+   <h1>Hello, World!</h1>
+<p>This is a sample markdown file.</p>
+<ul>
+<li>Item 1</li>
+<li>Item 2</li>
+</ul>
+<p><strong>Bold Text</strong> and <em>Italic Text</em>.</p>
+<p><code>python
+print("Hello, Python!")</code></p>
 
-`
+```
 
 ## 📚 Markdown Syntax Supported
 
