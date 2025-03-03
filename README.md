@@ -8,7 +8,7 @@ A simple Python script to convert **Markdown** files to **HTML** format.
 
   * Converts Markdown files to HTML.
   * Handles various Markdown syntax (headers, lists, code blocks, etc.).
-  * Simple and easy-to-use interface.
+  * Simple and easy-to-use "interface".
   * Error handling for missing files.
 
 ## 🛠️ Requirements
