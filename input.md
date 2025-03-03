@@ -10,41 +10,53 @@
 
 ###### Header 6 (H6)
 
-This is a paragraph of text with **bold** , _italic_ , and ~~strikethrough~~
-formatting.
+This is a paragraph with **bold** , _italic_ , and ~~strikethrough~~ text.
 
 Inline code: `print("Hello, World!")`
 
-## Code Block (Python Example)
+## Python Code Block
 
     
     
-    def hello_world():
-        print("Hello, World!")
+    def greet():
+        print("Hello from Python!")
+        
+
+## JavaScript Code Block
+
+    
+    
+    function greet() {
+        console.log("Hello from JavaScript!");
+    }
         
 
 ## Unordered List
 
   * Item 1
-  * Item 2
-  * Item 3
+  * Item 2 
     * Sub-item 1
     * Sub-item 2
+  * Item 3
 
 ## Ordered List
 
-  1. First item
-  2. Second item
-  3. Third item
+  1. Step One
+  2. Step Two
+  3. Step Three
 
 ## Task List
 
   * [x] Completed Task
   * [ ] Incomplete Task
+  * [x] Another Completed Task
 
 ## Blockquote
 
 > This is a blockquote.
+>
+
+>> This is a nested blockquote.
 
 ## Horizontal Rule
 
@@ -52,26 +64,51 @@ Inline code: `print("Hello, World!")`
 
 ## Links
 
-Here is a [link to Example](https://michaelninder.de).
+Visit [Michael Ninder's website](https://michaelninder.de).
+
+Automatic link: <https://github.com>
 
 ## Images
 
-![Placeholder Image](https://via.placeholder.com/150)
+![Placeholder Image](https://via.placeholder.com/300)
 
 ## Table Example
 
-Column 1 | Column 2 | Column 3  
+Left Aligned | Center Aligned | Right Aligned  
 ---|---|---  
 Row 1 | Row 2 | Row 3  
 Row A | Row B | Row C  
   
+## Definition List
+
+HTML
+
+    Hypertext Markup Language
+CSS
+
+    Cascading Style Sheets
+
+## Emojis
+
+Here are some fun emojis: 😄 🚀 🎉
+
+## Math Expressions
+
+Euler's Identity: \\( e^{i\pi} + 1 = 0 \\)
+
 ## Escaped Characters
 
-Display literal symbols: \\* \\_ \\` \\#
+Escape special symbols: \\* \\_ \\` \\#
+
+## Superscripts and Subscripts
+
+Superscript: x2 \+ y2 = z2
+
+Subscript: H2O
 
 ## Footnotes
 
-This is a sentence with a footnote reference[1].
+This sentence has a footnote reference[1].
 
 [1] This is the footnote content.
 
