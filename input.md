@@ -64,7 +64,7 @@ Inline code: `print("Hello, World!")`
 
 ## Links
 
-Visit [Michael Ninder's website](https://michaelninder.de).
+Visit [Michaelninder's website](https://michaelninder.de).
 
 Automatic link: <https://github.com>
 
