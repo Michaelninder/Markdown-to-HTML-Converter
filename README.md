@@ -25,8 +25,8 @@ Ensure you have Python and the `markdown` package installed:
 
     
     
-    git clone https://github.com/michaelninder/markdown-to-HTML-Converter.git
-    cd markdown-to-html
+    git clone https://github.com/Michaelninder/Markdown-to-HTML-Converter.git
+    cd Markdown-to-HTML-Converter
 
 2\. Ensure you have Python 3 installed:
 
