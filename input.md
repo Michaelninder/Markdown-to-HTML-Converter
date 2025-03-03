@@ -34,9 +34,6 @@ Inline code: `print("Hello, World!")`
 ## Ordered List
 
   1. First item
-    1. First Sub-item
-    2. Second Sub-item
-    3. Third Sub-item
   2. Second item
   3. Third item
 
