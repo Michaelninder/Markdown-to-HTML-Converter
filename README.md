@@ -67,7 +67,7 @@ The output will be saved in `output.html`.
 #### output.html
 
 ```    
-   <h1>Hello, World!</h1>
+<h1>Hello, World!</h1>
 <p>This is a sample markdown file.</p>
 <ul>
 <li>Item 1</li>
